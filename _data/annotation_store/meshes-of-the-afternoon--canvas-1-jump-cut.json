@@ -1,0 +1,163 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://briebelmonte.github.io/brie-meshes/annotations/meshes-of-the-afternoon--canvas-1-jump-cut.json",
+  "type": "AnnotationPage",
+  "label": "Jump-cut",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon--canvas-1-jump-cut-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "At this point in the film, the camera jumps from zooming in on the knife in the bread, to the knife falling out of the bread onto the table. This scene speaks to something creepy happening.  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://briebelmonte.github.io/brie-meshes/meshes-of-the-afternoon-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://briebelmonte.github.io/brie-meshes/meshes-of-the-afternoon-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "107.0,114.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon--canvas-1-jump-cut-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This is the second time in the film that the knife is zoomed in on. Then the slow zooming stops and the scene cuts to a close up of the same knife. This repetition suggests that this symbol- the knife- is going to be important in the film.  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://briebelmonte.github.io/brie-meshes/meshes-of-the-afternoon-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://briebelmonte.github.io/brie-meshes/meshes-of-the-afternoon-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "267.0,273.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon--canvas-1-jump-cut-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This is the most jump cuts in one scene that the audience sees so far. The camera cuts from a shot of the masked mirror person to the absense/disappearance of the masked mirror person. Then the camera shows the woman at the top of the stairs, cuts to her on the bottom of the stairs, cuts to her in the middle of the stairs, etc. Maybe the not-so-smooth transition of the woman on the stairs symbolizes her psychological state and her brain jumping from thought to thought so quickly that she starts going crazy.  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://briebelmonte.github.io/brie-meshes/meshes-of-the-afternoon-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://briebelmonte.github.io/brie-meshes/meshes-of-the-afternoon-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "491.0,502.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon--canvas-1-jump-cut-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "In this scene, the film-maker cuts from a zoomed in image of a key in the woman's hand, to a zoomed in image of a knife in the woman's hand. It makes me think that the woman is guilty of something. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://briebelmonte.github.io/brie-meshes/meshes-of-the-afternoon-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://briebelmonte.github.io/brie-meshes/meshes-of-the-afternoon-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "539.0,542.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon--canvas-1-jump-cut-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "In this scene, three of the same women are shown holding the key, but when the last woman turns her hand over, her hand looks bloody, the scene cuts, and the key turns into a knife again. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://briebelmonte.github.io/brie-meshes/meshes-of-the-afternoon-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://briebelmonte.github.io/brie-meshes/meshes-of-the-afternoon-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "569.0,602.0"
+        }
+      }
+    }
+  ]
+}

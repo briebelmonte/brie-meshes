@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://briebelmonte.github.io/brie-meshes/annotations/meshes-of-the-afternoon--canvas-1-jump-cut-.json",
+  "type": "AnnotationPage",
+  "label": "Jump-cut ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon--canvas-1-jump-cut--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This is the first jump cut in the film. The audience sees an arm set a flower down on the ground. The scene cuts, and the arm vanishes. The first hint that something weird or scary is going on.  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://briebelmonte.github.io/brie-meshes/meshes-of-the-afternoon-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://briebelmonte.github.io/brie-meshes/meshes-of-the-afternoon-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "21.0,25.0"
+        }
+      }
+    }
+  ]
+}
